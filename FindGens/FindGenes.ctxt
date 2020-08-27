@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=FindGenes
+comment1.params=gene\ sr
+comment1.target=void\ GeneFinder(java.lang.String,\ edu.duke.StorageResource)
+comment2.params=input
+comment2.target=void\ findAbc(java.lang.String)
+comment3.params=sr
+comment3.target=void\ outPrintGenes(edu.duke.StorageResource)
+comment4.params=gene
+comment4.target=double\ cgRatio(java.lang.String)
+comment5.params=gene
+comment5.target=double\ cgRatioRemastered(java.lang.String)
+comment6.params=length\ sr
+comment6.target=void\ printStringsBySize(int,\ edu.duke.StorageResource)
+comment7.params=Ratio\ sr
+comment7.target=void\ printStringsWithGCRatio(double,\ edu.duke.StorageResource)
+comment8.params=
+comment8.target=void\ testCases()
+numComments=9
